@@ -1,2 +1,2 @@
 # Paver-block-designing-app
-"Unlock your creativity with our Paver Design App! Tailor unique block patterns for any plot size and shape effortlessly. Transform landscapes with ease, exploring endless possibilities in paving excellence. Your vision, beautifully crafted."
+"Discover endless creativity in paving design! Our website lets you craft unique paver block layouts for various plot sizes and shapes, transforming spaces with personalized charm. Unleash your imagination and elevate your surroundings effortlessly."
